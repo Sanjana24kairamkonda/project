@@ -1,0 +1,82 @@
+[
+    {
+        "question":"Out of all the 2-digit integers between 1 and 100, a 2-digit number has to be selected at random. What is the probability that the selected number is not divisible by 7?",
+        "option1":"13/90",
+        "option2":"12/90",
+        "option3":"78/90",
+        "option4":"15/90",
+        "answer":"12/90"
+    },
+    {
+        "question":"A two-digit number is such that the product of the digits is 12. When 9 is subtracted from the number, the digits are reversed. The number is:",
+        "option1":"34",
+        "option2":"62",
+        "option3":"43",
+        "option4":"26",
+        "answer":"43"
+    },
+    {
+        "question":"What is the sum of two consecutive odd numbers, the difference of whose squares is 56?",
+        "option1":"30",
+        "option2":"28",
+        "option3":"42",
+        "option4":"34",
+        "answer":"28"
+    },
+    {
+        "question":"A boat travels 10 km upstream in 40 minutes and 15 km downstream in 30 minutes. Find the time taken by the boat to cover a distance of 45 km in still water.",
+        "option1":"1 minute",
+        "option2":"2 hours",
+        "option3":"60 seconds",
+        "option4":"1.5 hours",
+        "answer":"2 hours"
+    },
+    {
+        "question":"A can do a piece of work in 22 days while B alone can complete the whole work in 26 days. They work together for 5 days then A left the work and remaining work can done by B alone. In how many days will finish the whole work?  ",
+        "option1":"13 days",
+        "option2":"15 days",
+        "option3":"10 days",
+        "option4":"None of the above",
+        "answer":"10 days"
+    },
+    {
+        "question":"Let X be a random variable following normal distribution with mean +1 and variance 4. Let Y be another normal variable with mean -1 and variance unknown If P(X <=-1) = P(Y >=2). the standard deviation of Y is ",
+        "option1":"3",
+        "option2":"2",
+        "option3":"sqrt(2)",
+        "option4":"1",
+        "answer":"3"
+    },
+    {
+        "question":"In the given series 11, 23, 47, 83, 131, … What is the next number?",
+        "option1":"145",
+        "option2":"178",
+        "option3":"191",
+        "option4":"176",
+        "answer":"191"
+    },
+    {
+        "question":"If VXUPLVH is written as SURMISE, what is SHDVD written as?",
+        "option1":" PEASA",
+        "option2":" PBASA",
+        "option3":"PEBSB",
+        "option4":"None of the abov",
+        "answer":"PEASA"
+    },
+    {
+        "question":"Anil works for 8 straight days and rest on the 9th day. If he starts his work on Monday, then on which day he gets his 12th rest day?",
+        "option1":"Thurday",
+        "option2":"Tuesday",
+        "option3":"Wednesday",
+        "option4":"Friday",
+        "answer":"Wednesday"
+    },
+    {
+        "question":"A team of 11 is needed to be formed who are to be selected from 5 men and 11 women, with the restriction of selecting not more than 3 men. In how many ways can the selection be done?",
+        "option1":"1121",
+        "option2":"1565",
+        "option3":"1243",
+        "option4":"2256",
+        "answer":"2256"
+    }
+]

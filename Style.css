@@ -1,0 +1,24 @@
+.App{
+   text-align: center;
+   font-family: Arial;}
+.selected {
+   background :yellow Limportant;}
+.options {
+   padding: врх;
+   border: 3px solid #000;
+   cursor: pointer;
+   width:100%;
+   background-color: white;
+   color: steelblues;
+   font-weight :bold;}
+al{
+   list-style-type: none;}
+ul li {
+   margin: Spx;}
+body{
+   display :flex;
+   justify-content: center;
+   color:white;
+   font-family: "Segoe UI";
+   font-size: 18px;
+   background-color: teal;}

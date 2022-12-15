@@ -1,0 +1,12 @@
+.button{
+    width: 88%;
+    background-color: rgb(38, 42, 61);
+    color: #ffffff;
+    height: 45px;
+    box-shadow: 10px;
+    font-size: 15px;
+}
+.sections{
+    padding-top: 10px;
+    padding-left: 150px;
+}
